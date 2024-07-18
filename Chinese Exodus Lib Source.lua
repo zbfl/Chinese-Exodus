@@ -226,13 +226,13 @@ library.themes = {
         }
     },
     {
-        name = 'Twitch',
+        name = 'Brokie',
         theme = {
-            ['Accent']                    = fromrgb(169,112,255);
-            ['Background']                = fromrgb(14,14,14);
+            ['Accent']                    = fromrgb(113, 93, 133);
+            ['Background']                = fromrgb(30, 30, 30);
             ['Border']                    = fromrgb(0,0,0);
-            ['Border 1']                  = fromrgb(45,45,45);
-            ['Border 2']                  = fromrgb(31,31,35);
+            ['Border 1']                  = fromrgb(65, 65, 65);
+            ['Border 2']                  = fromrgb(10, 10, 10);
             ['Border 3']                  = fromrgb(10,10,10);
             ['Primary Text']              = fromrgb(235,235,235);
             ['Group Background']          = fromrgb(31,31,35);
