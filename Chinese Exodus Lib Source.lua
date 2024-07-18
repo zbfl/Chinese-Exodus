@@ -200,33 +200,33 @@ library.themes = {
         }
     },
     {
-        name = 'Gamesense',
+        name = 'Vibrant Blue',
         theme = {
-            ['Accent']                    = fromrgb(147,184,26);
-            ['Background']                = fromrgb(17,17,17);
-            ['Border']                    = fromrgb(0,0,0);
-            ['Border 1']                  = fromrgb(47,47,47);
-            ['Border 2']                  = fromrgb(17,17,17);
-            ['Border 3']                  = fromrgb(10,10,10);
-            ['Primary Text']              = fromrgb(235,235,235);
-            ['Group Background']          = fromrgb(17,17,17);
-            ['Selected Tab Background']   = fromrgb(17,17,17);
-            ['Unselected Tab Background'] = fromrgb(17,17,17);
-            ['Selected Tab Text']         = fromrgb(245,245,245);
-            ['Unselected Tab Text']       = fromrgb(145,145,145);
-            ['Section Background']        = fromrgb(17,17,17);
-            ['Option Text 1']             = fromrgb(245,245,245);
-            ['Option Text 2']             = fromrgb(195,195,195);
-            ['Option Text 3']             = fromrgb(145,145,145);
-            ['Option Border 1']           = fromrgb(47,47,47);
-            ['Option Border 2']           = fromrgb(0,0,0);
-            ['Option Background']         = fromrgb(35,35,35);
-            ["Risky Text"]                = fromrgb(175, 21, 21);
-            ["Risky Text Enabled"]        = fromrgb(255, 41, 41);
+            ['Accent']                    = Color3.fromRGB(0, 153, 255);
+            ['Background']                = Color3.fromRGB(17, 17, 17);
+            ['Border']                    = Color3.fromRGB(0, 0, 0);
+            ['Border 1']                  = Color3.fromRGB(47, 47, 47);
+            ['Border 2']                  = Color3.fromRGB(17, 17, 17);
+            ['Border 3']                  = Color3.fromRGB(10, 10, 10);
+            ['Primary Text']              = Color3.fromRGB(255, 255, 255);
+            ['Group Background']          = Color3.fromRGB(25, 25, 25);
+            ['Selected Tab Background']   = Color3.fromRGB(25, 25, 25);
+            ['Unselected Tab Background'] = Color3.fromRGB(20, 20, 20);
+            ['Selected Tab Text']         = Color3.fromRGB(245, 245, 245);
+            ['Unselected Tab Text']       = Color3.fromRGB(165, 165, 165);
+            ['Section Background']        = Color3.fromRGB(20, 20, 20);
+            ['Option Text 1']             = Color3.fromRGB(245, 245, 245);
+            ['Option Text 2']             = Color3.fromRGB(195, 195, 195);
+            ['Option Text 3']             = Color3.fromRGB(145, 145, 145);
+            ['Option Border 1']           = Color3.fromRGB(47, 47, 47);
+            ['Option Border 2']           = Color3.fromRGB(0, 0, 0);
+            ['Option Background']         = Color3.fromRGB(30, 30, 30);
+            ["Risky Text"]                = Color3.fromRGB(175, 21, 21);
+            ["Risky Text Enabled"]        = Color3.fromRGB(255, 41, 41);
         }
     },
     {
-        name = 'Brokie',
+        name = 'Grey Theme',
         theme = {
             ['Accent']                    = fromrgb(113, 93, 133);
             ['Background']                = fromrgb(30, 30, 30);
