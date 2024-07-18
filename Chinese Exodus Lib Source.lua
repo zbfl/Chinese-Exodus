@@ -1025,7 +1025,7 @@ function library:init()
                 Position = newUDim2(.5,0,0,1);
                 ThemeColor = 'Primary Text';
                 Text = indicator.title;
-                Size = 13;
+                Size = 20;
                 Font = 2;
                 ZIndex = z+2;
                 Center = true;
