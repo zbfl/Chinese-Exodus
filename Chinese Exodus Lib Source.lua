@@ -70,7 +70,7 @@ local library = {
 
 library.themes = {
     {
-        name = 'Default',
+        name = 'System Chinese Exodus',
         theme = {
             ['Accent']                    = fromrgb(129,1,252);
             ['Background']                = fromrgb(17,17,17);
@@ -96,7 +96,7 @@ library.themes = {
         }
     },
     {
-        name = 'Midnight',
+        name = 'Dusk',
         theme = {
             ['Accent']                    = fromrgb(103,89,179);
             ['Background']                = fromrgb(22,22,31);
@@ -122,7 +122,7 @@ library.themes = {
         }
     },
     {
-        name = 'Nekocheat',
+        name = 'Pink-UwU',
         theme = {
             ["Accent"]                    = fromrgb(226, 30, 112);
             ["Background"]                = fromrgb(18,18,18);
@@ -148,7 +148,7 @@ library.themes = {
         }
     },
     {
-        name = 'Nekocheat Blue',
+        name = 'Calm Blue',
         theme = {
             ["Accent"]                    = fromrgb(0, 247, 255);
             ["Background"]                = fromrgb(18,18,18);
@@ -200,7 +200,7 @@ library.themes = {
         }
     },
     {
-        name = 'Gamesense',
+        name = 'Grass',
         theme = {
             ['Accent']                    = fromrgb(147,184,26);
             ['Background']                = fromrgb(17,17,17);
@@ -226,7 +226,7 @@ library.themes = {
         }
     },
     {
-        name = 'Twitch',
+        name = 'Twitch Clone',
         theme = {
             ['Accent']                    = fromrgb(169,112,255);
             ['Background']                = fromrgb(14,14,14);
