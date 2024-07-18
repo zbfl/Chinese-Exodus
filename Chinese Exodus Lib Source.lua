@@ -70,7 +70,7 @@ local library = {
 
 library.themes = {
     {
-        name = 'System Chinese Exodus',
+        name = 'Default',
         theme = {
             ['Accent']                    = fromrgb(129,1,252);
             ['Background']                = fromrgb(17,17,17);
@@ -96,7 +96,7 @@ library.themes = {
         }
     },
     {
-        name = 'Dusk',
+        name = 'Midnight',
         theme = {
             ['Accent']                    = fromrgb(103,89,179);
             ['Background']                = fromrgb(22,22,31);
@@ -122,7 +122,7 @@ library.themes = {
         }
     },
     {
-        name = 'Pink-UwU',
+        name = 'Pink UwU',
         theme = {
             ["Accent"]                    = fromrgb(226, 30, 112);
             ["Background"]                = fromrgb(18,18,18);
