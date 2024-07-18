@@ -122,7 +122,7 @@ library.themes = {
         }
     },
     {
-        name = 'Pink UwU',
+        name = 'Nekocheat',
         theme = {
             ["Accent"]                    = fromrgb(226, 30, 112);
             ["Background"]                = fromrgb(18,18,18);
@@ -148,7 +148,7 @@ library.themes = {
         }
     },
     {
-        name = 'Calm Blue',
+        name = 'Nekocheat blue',
         theme = {
             ["Accent"]                    = fromrgb(0, 247, 255);
             ["Background"]                = fromrgb(18,18,18);
@@ -200,7 +200,7 @@ library.themes = {
         }
     },
     {
-        name = 'Grass',
+        name = 'Gamesense',
         theme = {
             ['Accent']                    = fromrgb(147,184,26);
             ['Background']                = fromrgb(17,17,17);
@@ -226,7 +226,7 @@ library.themes = {
         }
     },
     {
-        name = 'Twitch Clone',
+        name = 'Twitch',
         theme = {
             ['Accent']                    = fromrgb(169,112,255);
             ['Background']                = fromrgb(14,14,14);
