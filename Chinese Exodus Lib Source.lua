@@ -4684,7 +4684,7 @@ function library:init()
         end
     end)
 
-    self.keyIndicator = self.NewIndicator({title = 'Your A Fatty', pos = newUDim2(0,15,0,325), enabled = true});
+    self.keyIndicator = self.NewIndicator({title = 'Your A Fatty', pos = newUDim2(0, 0, 0, 0), enabled = true});
     
     self.targetIndicator = self.NewIndicator({title = 'Target Info', pos = newUDim2(0,15,0,350), enabled = false});
     self.targetName = self.targetIndicator:AddValue({key = 'Name     :', value = 'nil'})
