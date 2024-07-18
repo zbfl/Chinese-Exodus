@@ -122,7 +122,7 @@ library.themes = {
         }
     },
     {
-        name = 'Nekocheat',
+        name = 'Pink UwU',
         theme = {
             ["Accent"]                    = fromrgb(226, 30, 112);
             ["Background"]                = fromrgb(18,18,18);
